@@ -124,9 +124,7 @@ The script generates the category-wise sales, monthly sales trend, and regional 
 
 **SQL Analysis · PostgreSQL · Python · Pandas · Data Visualization · Business Analytics · Problem Solving**
 
-## 📝 Dataset Note
 
-This project uses sample retail sales data for learning and demonstration purposes. The results represent the sample dataset and should not be interpreted as real-world business performance.
 
 ## 👨‍💻 Author
 
